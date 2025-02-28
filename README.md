@@ -27,7 +27,7 @@ Este é um jogo interativo em JavaScript que simula a escolha de uma carreira na
 2.  Abra o arquivo `index.html` em seu navegador.
 
 ## Estrutura de Arquivos
-jogo-carreira-dev/
+jogo-carreira-dev
 ├── index.html
 ├── style.css
 └── script.js
@@ -37,6 +37,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Autor
 \[Luiz Marques]
-
-## Licença
-Este projeto está sob a licença \[Tipo de Licença - Ex: MIT].
